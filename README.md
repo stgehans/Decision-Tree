@@ -1,7 +1,7 @@
 # Decision-Tree
 An implementation of the ID3 algotithm to build up a decision tree upon the popular cars data set
 
-The car data set contains data from ~1700 cars with informations per car like 'safety' and 'luggage boot size' and a 
+The car data set contains data from ~1700 cars with informations per car like 'safety' or 'luggage boot size' and a 
 classification if this car should be bought or not.
 
 This code builds a decision tree upon this data set and makes it possible to predict if one should buy a car or not. (if one has
